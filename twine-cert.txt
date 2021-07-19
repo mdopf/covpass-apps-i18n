@@ -1,87 +1,95 @@
 [[App]]
 [cert_app_name]
 de = CovPass
+en = CovPass
 tags = common
 [[onboarding]]
 [start_onboarding_title]
 de = Willkommen in der CovPass-App
+en = Welcome to the CovPass app
 tags = common
 [start_onboarding_message]
 de = Weisen Sie digitale COVID-Zertifikate der EU ganz einfach mit dem Smartphone nach.
+en = Show your EU Digital COVID Certificates from your smartphone with ease.
 tags = common
 [start_onboarding_secure_title]
 de = Absolute Sicherheit Ihrer Daten
+en = Absolute security for your data
 tags = common
 [start_onboarding_secure_message]
 de = Ihre Daten werden nur lokal auf Ihrem Smartphone gespeichert. Sie entscheiden, wann und wem Sie Ihre Daten vorzeigen.
+en = Your data is stored in one place: locally on your smartphone. You decide when you show your data and who you show it to.
 tags = common
 [start_onboarding_button_title]
 de = Los geht's
+en = Get started
 tags = common
 [next_onboarding_page_button_title]
 de = Weiter
+en = Next
 tags = common
 [vaccination_first_onboarding_page_title]
 de = Erster Schritt: Übertragen Sie das digitale COVID-Zertifikat der EU auf Ihr Smartphone
+en = Step one: upload your EU Digital COVID Certificate to your smartphone
 tags = common
 [vaccination_first_onboarding_page_message]
 de = Scannen Sie mit der CovPass-App das digitale COVID-Zertifikat der EU für eine Corona-Impfung, ein negatives Corona-Testergebnis oder eine Genesung von der Corona-Infektion. Halten Sie dafür die Kamera Ihres Smartphones über den QR-Code. Das digitale COVID-Zertifikat der EU wird sofort auf Ihr Smartphone übertragen.
+en = Use the CovPass app to scan the EU Digital COVID Certificate for a Covid-19 vaccination, a negative Covid-19 test result or recovery from a Covid-19 infection. To do this, hold your smartphone’s camera above the QR code. Your EU Digital COVID Certificate will be transferred to your smartphone immediately.
 tags = common
 [vaccination_second_onboarding_page_title]
 de = Zweiter Schritt: Rufen Sie den QR-Code in der CovPass-App auf
+en = Step two: open the QR code in the CovPass app
 tags = common
 [vaccination_second_onboarding_page_message]
 de = Mit dem QR-Code können Sie eine Corona-Impfung, ein negatives Corona-Testergebnis oder eine Genesung von einer Corona-Infektion nachweisen. Nach dem Scannen wird der QR-Code direkt in der CovPass-App angezeigt. Bitte beachten Sie, dass eine ausreichende Wirksamkeit des Impfschutzes erst etwa 14 Tage nach der letzten Impfung eintritt. Der QR-Code für den vollständigen Impfschutz ist deshalb erst nach Ablauf der 14 Tage gültig.
+en = Using the QR code, you can show evidence of a Covid-19 vaccination, a negative Covid-19 test result or recovery from a Covid-19 infection. The QR code is displayed directly in the CovPass app after scanning it. Please be aware that a vaccination only becomes sufficiently effective about 14 days after the final dose. For this reason, the QR code for full vaccination only becomes valid after 14 days have passed.
 tags = common
 [vaccination_third_onboarding_page_title]
 de = Dritter Schritt: Zeigen Sie den QR-Code bei Bedarf vor
+en = Step three: show your QR code when needed
 tags = common
 [vaccination_third_onboarding_page_message]
 de = Bei Bedarf können Sie den QR-Code in der CovPass-App vorzeigen. Der QR-Code wird dann von der prüfenden Person gescannt. Halten Sie dazu ergänzend Ihr Ausweisdokument bereit. Da der QR-Code nur auf Ihrem Smartphone gespeichert ist, können Sie ihn jederzeit auch ohne Internetverbindung anzeigen lassen.
+en = You can show your QR code from the CovPass app when you need it. The person checking the QR code will then scan it. You will also need to have an ID document at hand for this. Your QR code is stored only on your smartphone, so you can display it at any time even without an internet connection.
 tags = common
 [vaccination_fourth_onboarding_page_title]
 de = Datenschutz und Datensicherheit
+en = Data protection and security
 [vaccination_fourth_onboarding_page_first_list_item]
 de = Die Nutzung der CovPass-App ist freiwillig. Sie können Ihre digitalen COVID-Zertifikate der EU auch in Papierform verwenden.
+en = Using the CovPass app is voluntary. You can also use the digital COVID Certificates in paper form.
 tags = common
 [vaccination_fourth_onboarding_page_second_list_item]
 de = Zum Schutz vor Fälschungen oder Manipulationen werden die digitalen COVID-Zertifikate der EU durch das RKI elektronisch signiert. Hierzu werden die notwendigen Daten einmalig verschlüsselt an das RKI übermittelt. Nach der Erstellung des digitalen COVID-Zertifikats werden Ihre Daten vom RKI sofort unwiderruflich gelöscht. Der QR-Code enthält in kodierter Form die auf dem digitalen COVID-Zertifikat enthaltenen Informationen und die elektronische Signatur des RKI.
+en = To protect against forged certificates or manipulation, the digital COVID Certificates are electronically signed by the RKI. For this purpose, the necessary data is transmitted once in encrypted form to the RKI. Once the digital COVID Certificate has been created, the RKI will immediately and permanently delete the data. The QR code contains the information from the digital COVID Certificate, and the RKI’s electronic signature, in encoded form.
 tags = common
 [vaccination_fourth_onboarding_page_third_list_item]
 de = Wenn Sie den QR-Code eines digitalen COVID-Zertifikats der EU einer anderen Person zur Prüfung vorlegen, werden dem Prüfer der Name und das Geburtsdatum des Zertifikatsinhabers angezeigt. Bei der Prüfung ist gegebenenfalls ergänzend ein Ausweisdokument vorzulegen.
+en = When you present the QR code of a certificate in the app for verification, others will be able to find out whether you have tested negative, are fully vaccinated, or have proof that you have recovered from a coronavirus infection. During verification, the official verification app will also display the name and date of birth. In the case of test certificates, the date of sampling will also be displayed. 
+tags = common
 [vaccination_fourth_onboarding_page_fourth_list_item]
 de = Die digitalen COVID-Zertifikate der EU werden ausschließlich auf Ihrem Smartphone gespeichert. Sie haben jederzeit die Möglichkeit, die digitalen COVID-Zertifikate der EU wieder zu entfernen.
+en = The digital COVID Certificates are only stored on your smartphone. You have the possibility to delete the digital COVID Certificates at any time. 
 tags = common
 [vaccination_fourth_onboarding_page_message]
 de = Ausführliche Hinweise zur Datenverarbeitung finden Sie in der Datenschutzerklärung:
+en = Detailed information about this data processing is available in the privacy notice: 
 tags = common
 [vaccination_fourth_onboarding_page_button_title]
-de = Alles klar
+de = OK
 tags = common
 [vaccination_privacy_policy_page_button_title]
 de = Schließen
+en = Close
 tags = common
 [[start Screen]]
-[dialog_start_screen_title]
-de = Neues Update verfügbar
-tags = common
-[dialog_start_screen_message]
-de = Möchten Sie jetzt die CovPass-App aktualisieren?
-tags = common
-[dialog_start_screen_button_later]
-de = Später
-tags = common
-[dialog_start_screen_button_update]
-de = Aktualisieren
-tags = common
-[vaccination_start_screen_title]
-de = Digitale COVID-Zertifikate der EU
-tags = common
 [vaccination_start_screen_note_title]
 de = Fügen Sie einen Nachweis hinzu
+en = Add a certificate
 tags = common
 [vaccination_start_screen_note_message]
 de = Sie haben aktuell kein digitales COVID-Zertifikat der EU gespeichert. Drücken Sie auf das Plus-Symbol, um einen digitalen Nachweis hinzuzufügen.
+en = You do not have any EU Digital COVID Certificate saved at the moment. Tap the plus symbol to add a digital certificate.
 tags = common
 [vaccination_start_screen_qrcode_incomplete_subtitle]
 de = Unvollständiger Impfschutz
@@ -95,24 +103,31 @@ tags = common
 [[popup: add certification]]
 [certificate_add_popup_title]
 de = Nachweis hinzufügen
+en = Adding a certificate
 tags = common
 [certificate_add_popup_note_title]
 de = Kein Sperrcode auf Ihrem Smartphone vorhanden
+en = Your phone is not protected by a code
 tags = common
 [certificate_add_popup_note_message]
 de = Die CovPass-App speichert sensible Daten auf Ihrem Smartphone. Um die Daten vor fremdem Zugriff zu schützen, empfehlen wir Ihnen, eine Code zum Entsperren Ihres Smartphones einzurichten.
+en = The CovPass app saves sensitive data to your smartphone. To protect your data against access by strangers, we recommend that you set up an unlock code for your smartphone.
 tags = common
 [certificate_add_popup_message]
 de = Scannen Sie den QR-Code von einem digitalen COVID-Zertifikat der EU. Der Nachweis wird direkt in die CovPass-App übertragen.
+en = Scan the QR code on an EU Digital COVID Certificate. The certificate is transferred directly to the CovPass app.
 tags = common
 [certificate_add_popup_action_title]
 de = Welchen QR-Code kann ich einscannen?
+en = Which QR code can I scan and save to my phone?
 tags = common
 [certificate_add_popup_action_title_linked]
 de = #Welchen QR-Code kann ich einscannen?::$0#
+en = #Which QR code can I scan and save to my phone?::$0#
 tags = common
 [certificate_add_popup_scan_button_title]
 de = QR-Code scannen
+en = Scan QR code
 tags = common
 [error_camera_access_title]
 de = Die CovPass-App möchte auf Ihre Kamera zugreifen.
@@ -128,182 +143,238 @@ de = Erlauben
 tags = common
 [error_test_certificate_not_valid_title]
 de = Das Testzertifikat kann nicht hinzugefügt werden
+en = This test certificate cannot be added
 tags = common
 [error_test_certificate_not_valid_message]
 de = Der von Ihnen gescannte Nachweis für einen Corona-Test weist kein negatives Testergebnis nach. Die aktuelle Version der CovPass-App kann nur negative Corona-Testergebnisse speichern.
+en = The Covid-19 test certificate that you have scanned does not show a negative test result. The current version of the CovPass app can only save negative Covid-19 test results.
 tags = common
 [error_test_certificate_not_valid_button_title]
 de = OK
-tags = common
-[certificate_add_loading_screen_message]
-de = Nachweis wird hinzugefügt
+en = OK
 tags = common
 [[start Screen: favorite immunization certificate]]
 [certificate_favorite_button_hint]
 de = Als Favorit markieren
+en = Set as favourite
 tags = common
 [certificate_action_button_check_validity]
 de = Gültigkeit prüfen
+en = Check validity
 tags = common
 [[Screen: check validity]]
 [certificate_check_validity_title]
 de = Gültigkeit prüfen
+en = Check validity
 tags = common
 [certificate_check_validity_message]
 de = Prüfen Sie vorab, ob Ihre Zertifikate in verschiedenen Ländern gültig sind. Hierfür werden die geltenden Einreiseregeln des gewählten Reiselands berücksichtigt.
+en = Check beforehand if your certificates are valid in different countries. This tool checks them against the travel regulations applicable in your chosen destination country.
 tags = common
 [certificate_check_validity_selection_country]
 de = Land
+en = Country
 tags = common
 [certificate_check_validity_selection_country_title]
 de = Reiseland wählen
+en = Choose destination
 tags = common
 [IT]
 de = Italien
+en = Italy
 tags = common
 [LT]
 de = Litauen
+en = Lithuania
 tags = common
 [DK]
 de = Dänemark
+en = Denmark
 tags = common
 [GR]
 de = Griechenland
+en = Greece
 tags = common
 [CZ]
 de = Tschechien
+en = Czech Republic
 tags = common
 [HR]
 de = Kroatien
+en = Croatia
 tags = common
 [IS]
 de = Island
+en = Iceland
 tags = common
 [PT]
 de = Portugal
+en = Portugal
 tags = common
 [PL]
 de = Polen
+en = Poland
 tags = common
 [BE]
 de = Belgien
+en = Belgium
 tags = common
 [BG]
 de = Bulgarien
+en = Bulgaria
 tags = common
 [DE]
 de = Deutschland
+en = Germany
 tags = common
 [LU]
 de = Luxemburg
+en = Luxembourg
 tags = common
 [EE]
 de = Estland
+en = Estonia
 tags = common
 [CY]
 de = Zypern
+en = Cyprus
 tags = common
 [ES]
 de = Spanien
+en = Spain
 tags = common
 [NL]
 de = Niederlande
+en = Netherlands
 tags = common
 [AT]
 de = Österreich
+en = Austria
 tags = common
 [LV]
 de = Lettland
+en = Latvia
 tags = common
 [LI]
 de = Liechtenstein
+en = Liechtenstein
 tags = common
 [FI]
 de = Finnland
+en = Finland
 tags = common
 [SE]
 de = Schweden
+en = Sweden
 tags = common
 [SI]
 de = Slowenien
+en = Slovenia
 tags = common
 [RO]
 de = Rumänien
+en = Romania
 tags = common
 [NO]
 de = Norwegen
+en = Norway
 tags = common
 [SK]
 de = Slowakei
+en = Slovakia
 tags = common
 [FR]
 de = Frankreich
+en = France
 tags = common
 [MT]
 de = Malta
+en = Malta
 tags = common
 [HU]
 de = Ungarn
+en = Hungary
 tags = common
 [IE]
 de = Irland
+en = Ireland
 tags = common
 [CH]
 de = Schweiz
+en = Switzerland
 tags = common
 [certificate_check_validity_selection_country_note]
-de = Sie finden Ihr Reiseland nicht? In einem mehrstufigen Prozess werden nach und nach mehr Länder verfügbar gemacht. \n\nMehr Informationen finden Sie in den Häufigen Fragen und unter #https://reopen.europa.eu::https://reopen.europa.eu#.
+de = Sie finden Ihr Reiseland nicht? In einem mehrstufigen Prozess werden nach und nach mehr Länder verfügbar gemacht. \n\nMehr Informationen finden Sie in den #Häufigen Fragen::Häufigen Fragen# und unter #https://reopen.europa.eu::https://reopen.europa.eu#.
+en = Is your destination not listed? More countries are progressively being added in stages. \n\nYou can find more information in the #frequently asked questions::frequently asked questions# and on the #Re-open EU::Re-open EU# information page.
 tags = common
 [certificate_check_validity_selection_country_action_button]
 de = Übernehmen
+en = Select
 tags = common
 [certificate_check_validity_selection_date]
 de = Datum
+en = Date
 tags = common
 [certificate_check_validity_selection_date_title]
 de = Datum wählen
+en = Select Date
 tags = common
 [certificate_check_validity_selection_date_action_button]
 de = Weiter
+en = Next
 tags = common
 [certificate_check_validity_selection_time_title]
 de = Zeit wählen
+en = Select time
 tags = common
 [certificate_check_validity_selection_time_action_button]
 de = OK
+en = OK
 tags = common
 [certificate_check_validity_loading]
 de = Zertifikate werden geprüft
+en = Certificates are being checked
 tags = common
 [certificate_check_validity_no_certificate_saved_title]
 de = Sie haben noch keine Zertifikate gespeichert
+en = You have not saved any certificates yet
 tags = common
 [certificate_check_validity_no_certificate_saved_message]
 de = Fügen Sie ein Zertifikat hinzu, um dessen Gültigkeit zu überprüfen.
+en = Add a certificate so you can check its validity.
 tags = common
 [certificate_check_validity_vaccination]
 de = Impfzertifikat
+en = Vaccination certificate 
 tags = common
 [certificate_check_validity_test]
 de = Testzertifikat
+en = Test certificate
 tags = common
 [certificate_check_validity_recovery]
 de = Genesenenzertifikat
+en = Recovery certificate
 tags = common
 [certificate_check_validity_result_valid]
 de = Gültig
+en = valid
 tags = common
 [certificate_check_validity_result_not_valid]
 de = Im Reiseland ungültig
+en = Invalid in this country
 tags = common
 [certificate_check_validity_result_not_testable]
 de = Nicht vollständig prüfbar
+en = Full check not possible
 tags = common
 [certificate_check_validity_note]
 de = Beachten Sie, dass sich die Einreiseregeln ändern können. Prüfen Sie daher die Zertifikate mindestens 48 Stunden vorher. Es können in einzelnen Regionen oder bei Ihrer Rückkehr weitere Regeln oder Einschränkungen gelten. Zudem ist es möglich, dass weitere Dokumente für eine Einreise notwendig sind.\n\nMehr Informationen finden Sie in den Häufigen Fragen und unter #https://reopen.europa.eu::https://reopen.europa.eu#.
+en = Please be aware that travel regulations can change. You should check your certificates at least 48 hours before you travel. Different regulations or restrictions might apply in some regions or when you return. You might also need additional documents to travel to a different country. \n\nYou can find more information in the #frequently asked questions::frequently asked questions# and on the #Re-open EU::Re-open EU# information page. 
 tags = common
 [certificate_check_validity_detail_view_vaccination_result_title]
 de = Digitales COVID-Impfzertifikat der EU
+
+
 tags = common
 [certificate_check_validity_detail_view_vaccination_result_button]
 de = QR-Code anzeigen
